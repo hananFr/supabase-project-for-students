@@ -1,5 +1,4 @@
 import express from 'express';
-import auth from './middlwares/auth.js';
 import users from './routes/users.js'
 import products from './routes/products.js'
 
